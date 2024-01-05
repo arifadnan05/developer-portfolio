@@ -82,6 +82,7 @@ nav li a {
 .about-content {
     width: 70%;
     margin-left: 180px;
+    margin-top: 100px;
 }
 
 .section-title {
@@ -138,4 +139,74 @@ nav li a {
     font-size: 20px;
     font-weight: 700;
     line-height: 30px;
+}
+
+.what-section {
+    width: 70%;
+    margin-left: 180px;
+    margin-top: 100px;
+}
+
+/* language styles */
+
+.language-section {
+    display: flex;
+    gap: 24;
+    justify-content: center;
+}
+
+.lng {
+    margin: 0 12px;
+    width: 250px;
+}
+
+.lng-title {
+    color: #181818;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.lng-desc {
+    color: #757575;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+}
+
+.resume-content {
+    display: flex;
+    justify-content: center;
+}
+
+.resume-column {
+    width: 500px;
+    margin: 0 50px;
+}
+
+.resume-column-headline {
+    color: #474747;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.resume-column-title {
+    color: #474747;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.resume-institute {
+    color: #757575;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.resume-desc {
+    color: #757575;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+}
+.btn{
+    margin-left: 600px;
 }
