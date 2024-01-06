@@ -176,6 +176,7 @@ nav li a {
 .resume-content {
     display: flex;
     justify-content: center;
+    margin-bottom: 50px;
 }
 
 .resume-column {
@@ -207,6 +208,47 @@ nav li a {
     font-weight: 400;
     line-height: 28px;
 }
-.btn{
+
+.btn {
     margin-left: 600px;
+}
+
+.form-content {
+    display: flex;
+    margin: 0 200px;
+}
+
+.right-form input {
+    display: block;
+    padding: 15px 60px;
+    margin: 10px 0;
+    border: none;
+}
+
+.left-content {
+    width: 50%;
+}
+
+.right-form {
+    margin-left: 70px;
+}
+
+.right-form textarea {
+    border: none;
+}
+
+.form-title {
+    color: #181818;
+    font-size: 35px;
+    font-weight: 700;
+}
+
+.form-desc {
+    color: #474747;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+}
+.left-content img{
+    margin: 0 15px;
 }
